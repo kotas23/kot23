@@ -1,0 +1,237 @@
+#EXTM3U
+#EXTINF:-1, 01 ПЕРВЫЙ КАНАЛ
+http://10.12.1.22/dvb-gw/output/14/01-pervyy-kanal
+#EXTINF:-1, 03 МАТЧ!
+http://10.12.1.22/dvb-gw/output/14/03-match
+#EXTINF:-1, 04 НТВ
+http://10.12.1.22/dvb-gw/output/14/04-ntv
+#EXTINF:-1, 05 ПЯТЫЙ КАНАЛ
+http://10.12.1.22/dvb-gw/output/14/05-pyatyy-kanal
+#EXTINF:-1, 06 РОССИЯ-К
+http://10.12.1.22/dvb-gw/output/14/06-rossiya-k
+#EXTINF:-1, 08 КАРУСЕЛЬ
+http://10.12.1.22/dvb-gw/output/14/08-karusel
+#EXTINF:-1, 10 ТВ Центр
+http://10.12.1.22/dvb-gw/output/14/10-tv-centr
+#EXTINF:-1, 11 РЕН ТВ
+http://10.12.1.22/dvb-gw/output/15/11-ren-tv
+#EXTINF:-1, 12 Спас
+http://10.12.1.22/dvb-gw/output/15/12-spas
+#EXTINF:-1, 13 СТС
+http://10.12.1.22/dvb-gw/output/15/13-sts
+#EXTINF:-1, 14 Домашний
+http://10.12.1.22/dvb-gw/output/15/14-domashniy
+#EXTINF:-1, 15 ТВ3
+http://10.12.1.22/dvb-gw/output/15/15-tv3
+#EXTINF:-1, 16 Пятница
+http://10.12.1.22/dvb-gw/output/15/16-pyatnica
+#EXTINF:-1, 17 Звезда
+http://10.12.1.22/dvb-gw/output/15/17-zvezda
+#EXTINF:-1, 18 МИР
+http://10.12.1.22/dvb-gw/output/15/18-mir
+#EXTINF:-1, 19 ТНТ
+http://10.12.1.22/dvb-gw/output/15/19-tnt
+#EXTINF:-1, 20 МУЗ ТВ
+http://10.12.1.22/dvb-gw/output/15/20-muz-tv
+#EXTINF:-1, МАТЧ! HD
+http://10.12.1.22/dvb-gw/output/9/match-hd
+#EXTINF:-1, МАТЧ ПРЕМЬЕР HD
+http://10.12.1.22/dvb-gw/output/12/match-premer-hd
+#EXTINF:-1, МАТЧ! ФУТБОЛ 1 HD
+http://10.12.1.22/dvb-gw/output/12/match-futbol-1-hd
+#EXTINF:-1, МАТЧ! ФУТБОЛ 2 HD
+http://10.12.1.22/dvb-gw/output/12/match-futbol-2-hd
+#EXTINF:-1, МАТЧ! ФУТБОЛ 3 HD
+http://10.12.1.22/dvb-gw/output/12/match-futbol-3-hd
+#EXTINF:-1, МАТЧ ПРЕМЬЕР
+http://10.12.1.22/dvb-gw/output/13/match-premer
+#EXTINF:-1, МАТЧ! ФУТБОЛ 1
+http://10.12.1.22/dvb-gw/output/13/match-futbol-1
+#EXTINF:-1, МАТЧ! ФУТБОЛ 2
+http://10.12.1.22/dvb-gw/output/13/match-futbol-2
+#EXTINF:-1, МАТЧ! ФУТБОЛ 3
+http://10.12.1.22/dvb-gw/output/13/match-futbol-3
+#EXTINF:-1, МАТЧ! АРЕНА HD
+http://10.12.1.22/dvb-gw/output/9/match-arena-hd
+#EXTINF:-1, МАТЧ! ИГРА HD
+http://10.12.1.22/dvb-gw/output/9/match-igra-hd
+#EXTINF:-1, МАТЧ! СТРАНА HD
+http://10.12.1.22/dvb-gw/output/9/match-strana-hd
+#EXTINF:-1, СТАРТ
+http://10.12.1.22/dvb-gw/output/13/start
+#EXTINF:-1, СТАРТ ТРИУМФ HD
+http://10.12.1.22/dvb-gw/output/11/start-triumf-hd
+#EXTINF:-1, TiJi
+http://10.12.1.22/dvb-gw/output/2/tiji
+#EXTINF:-1, ducktv
+http://10.12.1.22/dvb-gw/output/2/ducktv
+#EXTINF:-1, Gulli Girl
+http://10.12.1.22/dvb-gw/output/2/gulli-girl
+#EXTINF:-1, В гостях у сказки HD
+http://10.12.1.22/dvb-gw/output/8/v-gostyah-u-skazki-hd
+#EXTINF:-1, Детский Мир HD
+http://10.12.1.22/dvb-gw/output/12/detskiy-mir-hd
+#EXTINF:-1, СОЛНЦЕ
+http://10.12.1.22/dvb-gw/output/13/solnce
+#EXTINF:-1, КиноМульт
+http://10.12.1.22/dvb-gw/output/13/kinomult
+#EXTINF:-1, Мама
+http://10.12.1.22/dvb-gw/output/10/mama
+#EXTINF:-1, Радость моя
+http://10.12.1.22/dvb-gw/output/13/radost-moya
+#EXTINF:-1, RU.TV
+http://10.12.1.22/dvb-gw/output/2/ru-tv
+#EXTINF:-1, BRIDGE
+http://10.12.1.22/dvb-gw/output/2/bridge
+#EXTINF:-1, BRIDGE РУССКИЙ ХИТ
+http://10.12.1.22/dvb-gw/output/2/bridge-russkiy-hit
+#EXTINF:-1, BRIDGE DELUXE
+http://10.12.1.22/dvb-gw/output/11/bridge-deluxe
+#EXTINF:-1, Mezzo Live
+http://10.12.1.22/dvb-gw/output/3/mezzo-live
+#EXTINF:-1, MCM Top
+http://10.12.1.22/dvb-gw/output/2/mcm-top
+#EXTINF:-1, THT MUSIC
+http://10.12.1.22/dvb-gw/output/13/tht-music
+#EXTINF:-1, БелРос
+http://10.12.1.22/dvb-gw/output/2/belros
+#EXTINF:-1, Охота и рыбалка
+http://10.12.1.22/dvb-gw/output/2/ohota-i-rybalka
+#EXTINF:-1, Тайны Галактики
+http://10.12.1.22/dvb-gw/output/2/tayny-galaktiki
+#EXTINF:-1, ЕвроКино
+http://10.12.1.22/dvb-gw/output/2/evrokino
+#EXTINF:-1, Travel+Adventure
+http://10.12.1.22/dvb-gw/output/2/travel-adventure
+#EXTINF:-1, МИР 24
+http://10.12.1.22/dvb-gw/output/2/mir-24
+#EXTINF:-1, 8 канал
+http://10.12.1.22/dvb-gw/output/2/8-kanal
+#EXTINF:-1, Санкт-Петербург
+http://10.12.1.22/dvb-gw/output/2/sankt-peterburg
+#EXTINF:-1, Москва 24
+http://10.12.1.22/dvb-gw/output/2/moskva-24
+#EXTINF:-1, Продвижение
+http://10.12.1.22/dvb-gw/output/2/prodvizhenie
+#EXTINF:-1, CuriosityStream
+http://10.12.1.22/dvb-gw/output/3/curiositystream
+#EXTINF:-1, Hollywood HD
+http://10.12.1.22/dvb-gw/output/3/hollywood-hd
+#EXTINF:-1, Любимое Кино HD
+http://10.12.1.22/dvb-gw/output/8/lyubimoe-kino-hd
+#EXTINF:-1, Мир сериала HD
+http://10.12.1.22/dvb-gw/output/8/mir-seriala-hd
+#EXTINF:-1, OTP HD
+http://10.12.1.22/dvb-gw/output/8/otp-hd
+#EXTINF:-1, Моя стихия HD
+http://10.12.1.22/dvb-gw/output/8/moya-stihiya-hd
+#EXTINF:-1, Кино без границ HD
+http://10.12.1.22/dvb-gw/output/8/kino-bez-granic-hd
+#EXTINF:-1, Big Planet HD
+http://10.12.1.22/dvb-gw/output/8/big-planet-hd
+#EXTINF:-1, RTG HD
+http://10.12.1.22/dvb-gw/output/8/rtg-hd
+#EXTINF:-1, THT4
+http://10.12.1.22/dvb-gw/output/13/tht4
+#EXTINF:-1, THT HD
+http://10.12.1.22/dvb-gw/output/9/tht-hd
+#EXTINF:-1, КИНОПРЕМЬЕРА HD
+http://10.12.1.22/dvb-gw/output/9/kinopremera-hd
+#EXTINF:-1, viju Explore
+http://10.12.1.22/dvb-gw/output/10/viju-explore
+#EXTINF:-1, viju History
+http://10.12.1.22/dvb-gw/output/10/viju-history
+#EXTINF:-1, viju Nature
+http://10.12.1.22/dvb-gw/output/10/viju-nature
+#EXTINF:-1, viju+ Sport
+http://10.12.1.22/dvb-gw/output/10/viju-sport
+#EXTINF:-1, FlixSnip
+http://10.12.1.22/dvb-gw/output/10/flixsnip
+#EXTINF:-1, ДОМАШНИЕ ЖИВОТНЫЕ
+http://10.12.1.22/dvb-gw/output/10/domashnie-zhivotnye
+#EXTINF:-1, Усадьба-ТВ
+http://10.12.1.22/dvb-gw/output/10/usadba-tv
+#EXTINF:-1, КИНЕКО
+http://10.12.1.22/dvb-gw/output/10/kineko
+#EXTINF:-1, АРМЕНИЯ ТВ
+http://10.12.1.22/dvb-gw/output/10/armeniya-tv
+#EXTINF:-1, Big Planet
+http://10.12.1.22/dvb-gw/output/10/big-planet
+#EXTINF:-1, KinoLiving
+http://10.12.1.22/dvb-gw/output/10/kinoliving
+#EXTINF:-1, sci-fi
+http://10.12.1.22/dvb-gw/output/10/sci-fi
+#EXTINF:-1, Amedia Premium HD
+http://10.12.1.22/dvb-gw/output/11/amedia-premium-hd
+#EXTINF:-1, Bollywood HD
+http://10.12.1.22/dvb-gw/output/11/bollywood-hd
+#EXTINF:-1, МАТЧ! БОЕЦ HD
+http://10.12.1.22/dvb-gw/output/12/match-boec-hd
+#EXTINF:-1, КОННЫЙ МИР HD
+http://10.12.1.22/dvb-gw/output/12/konnyy-mir-hd
+#EXTINF:-1, KHL
+http://10.12.1.22/dvb-gw/output/13/khl
+#EXTINF:-1, KHL Prime
+http://10.12.1.22/dvb-gw/output/9/khl-prime
+#EXTINF:-1, Extreme Sports
+http://10.12.1.22/dvb-gw/output/10/extreme-sports
+#EXTINF:-1, Точка отрыва
+http://10.12.1.22/dvb-gw/output/10/tochka-otryva
+#EXTINF:-1, Телеканал 360
+http://10.12.1.22/dvb-gw/output/13/telekanal-360
+#EXTINF:-1, РБК-ТВ
+http://10.12.1.22/dvb-gw/output/13/rbk-tv
+#EXTINF:-1, 2X2
+http://10.12.1.22/dvb-gw/output/13/2x2
+#EXTINF:-1, Ю
+http://10.12.1.22/dvb-gw/output/13/yu
+#EXTINF:-1, Суббота!
+http://10.12.1.22/dvb-gw/output/13/subbota
+#EXTINF:-1, The Explorers
+http://10.12.1.22/dvb-gw/output/13/the-explorers
+#EXTINF:-1, ABTO24
+http://10.12.1.22/dvb-gw/output/13/abto24
+#EXTINF:-1, Доктор
+http://10.12.1.22/dvb-gw/output/13/doktor
+#EXTINF:-1, Shop&Show
+http://10.12.1.22/dvb-gw/output/13/shop-show
+#EXTINF:-1, Ювелирочка
+http://10.12.1.22/dvb-gw/output/2/yuvelirochka
+#EXTINF:-1, Ювелирия
+http://10.12.1.22/dvb-gw/output/2/digital-media
+#EXTINF:-1, Романтика
+http://10.12.1.22/dvb-gw/output/10/romantika
+#EXTINF:-1, Авторадио
+http://10.12.1.22/dvb-gw/output/10/avtoradio
+#EXTINF:-1, Радио Ваня
+http://10.12.1.22/dvb-gw/output/10/radio-vanya
+#EXTINF:-1, ENERGY FM
+http://10.12.1.22/dvb-gw/output/10/energy-fm
+#EXTINF:-1, DFM
+http://10.12.1.22/dvb-gw/output/10/dfm
+#EXTINF:-1, Русское радио
+http://10.12.1.22/dvb-gw/output/10/russkoe-radio
+#EXTINF:-1, HIT FM	
+http://10.12.1.22/dvb-gw/output/10/hit-fm
+#EXTINF:-1, Maximum
+http://10.12.1.22/dvb-gw/output/10/maximum
+#EXTINF:-1, Business FM
+http://10.12.1.22/dvb-gw/output/10/business-fm
+#EXTINF:-1, Милицейская волна
+http://10.12.1.22/dvb-gw/output/10/miliceyskaya-volna
+#EXTINF:-1, Comedy Radio
+http://10.12.1.22/dvb-gw/output/10/comedy-radio
+#EXTINF:-1, Комсомольская правда
+http://10.12.1.22/dvb-gw/output/10/komsomolskaya-pravda
+#EXTINF:-1, Relax FM
+http://10.12.1.22/dvb-gw/output/10/relax-fm
+#EXTINF:-1, Радио МИР
+http://10.12.1.22/dvb-gw/output/10/radio-mir
+#EXTINF:-1, Love Radio
+http://10.12.1.22/dvb-gw/output/10/love-radio
+#EXTINF:-1, Детское радио
+http://10.12.1.22/dvb-gw/output/10/detskoe-radio
+#EXTINF:-1, ВЕСТИ ФМ
+http://10.12.1.22/dvb-gw/output/14/vesti-fm
+#EXTINF:-1, МАЯК
+http://10.12.1.22/dvb-gw/output/14/mayak
